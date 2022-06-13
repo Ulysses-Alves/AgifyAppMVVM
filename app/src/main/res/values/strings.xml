@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agify</string>
+    <string name="response_age">Age</string>
+    <string name="response_count">Count</string>
+    <string name="name_input">Enter Name</string>
+    <string name="agify_btn">Agify Name</string>
+    <string name="app_subtitle">Predict the age of a name</string>
+    <string name="app_description">A simple API for predicting the age of a person given their name.</string>
+</resources>
